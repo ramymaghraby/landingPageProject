@@ -83,16 +83,4 @@ navBar.addEventListener('click', (event)=>{
     document.getElementById(noSpace).classList.add('your-active-class');
 })
 
-/**
- * End Main Functions
- * Begin Events
- * 
-*/
-
-// Build menu 
-
-// Scroll to section on link click
-
-// Set sections as active
-
 
